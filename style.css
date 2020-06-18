@@ -101,3 +101,10 @@ h3 {
 #sale img:hover {
 	transform: scale(1.5);
 }
+#note {
+	color: red;
+	font-family: Times New Roman, san-serif;
+	font-size: 40px;
+	line-height: 80px;
+	font-weight: bold;
+}
